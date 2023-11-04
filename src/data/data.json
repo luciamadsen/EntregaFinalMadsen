@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "titulo": "Remera Negra de Campeón",
+        "descripcion": "Lleva el espíritu ganador de los esports contigo con nuestra remara negra de campeón. Con un diseño elegante y cómodo, estarás listo para dominar cualquier torneo.",
+        "categoria": "indumentaria",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 2500,
+        "stock":8
+    },
+    {
+        "id": 2,
+        "titulo": "Pantalón Gaming Ultimate",
+        "descripcion": "Prepárate para largas sesiones de juego con nuestro pantalón gaming ultimate. Diseñado para la máxima comodidad y estilo, este pantalón es esencial para cualquier jugador serio.",
+        "categoria": "indumentaria",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 10000,
+        "stock":10
+    },
+    {
+        "id": 3,
+        "titulo": "Buzo Gamer de Élite",
+        "descripcion": "Mantén el calor y el estilo con nuestro buzo gamer de élite. Ya sea en el campo de batalla o en la vida cotidiana, este buzo te mantendrá listo para la acción.",
+        "categoria": "indumentaria",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 15000,
+        "stock":5
+    },
+    {
+        "id": 4,
+        "titulo": "Buzo Esport Profesional",
+        "descripcion": "Únete al mundo de los deportes electrónicos con nuestro buzo esport profesional. Diseñado para jugadores comprometidos, este buzo refleja tu pasión por los esports.",
+        "categoria": "indumentaria",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 15700,
+        "stock":11
+    },
+    {
+        "id": 5,
+        "titulo": "Campera Gaming de Invierno",
+        "descripcion": "Enfréntate al frío invernal con nuestra campera gaming. Mantén la calidez y el estilo mientras te sumerges en largas sesiones de juego durante la temporada de esports.",
+        "categoria": "indumentaria",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 25000,
+        "stock":4
+    },
+    {
+        "id": 6,
+        "titulo": "Remera Blanca",
+        "descripcion": "Lleva tu pasión por los esports al siguiente nivel con nuestro jersey esports personalizado. Diseñado para los verdaderos fanáticos, este jersey te permite mostrar tu apoyo a tu equipo favorito o tu nombre de jugador en competencias.",
+        "categoria": "indumentaria",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 10000,
+        "stock":9
+    },
+    {
+        "id": 7,
+        "titulo": "Lentes Gamer",
+        "descripcion": "Domina la pantalla y protege tus ojos con nuestros lentes gamer de alto rendimiento. Diseñados para sesiones de juego maratonianas, estos lentes reducen la fatiga visual y mejoran tu concentración en los esports. ",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 19000,
+        "stock":19
+    },
+    {
+        "id": 8,
+        "titulo": "Pin Esports de Colección",
+        "descripcion": "Colecciona momentos y muestra tu pasión por los esports con nuestro pin esports de colección. Un accesorio imprescindible para los fanáticos, este pin es una declaración de tu amor por los videojuegos competitivos. Llévalo con orgullo y demuestra tu afiliación a la comunidad de gamers.",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1900,
+        "stock":12
+    },
+    {
+        "id": 9,
+        "titulo": "Sticker Esports Nro. 1",
+        "descripcion": "Personaliza tu equipo y tu entorno de juego con nuestro sticker esports Nro. 1. Celebra tus logros en los esports con este sticker de alta calidad. Colócalo en tu set up o en tu portátil y demuestra que eres el mejor en tu disciplina.",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock":10
+    },
+    {
+        "id": 10,
+        "titulo": "Sticker Logo de Equipo",
+        "descripcion": "Apoya a tu equipo favorito de esports con nuestro sticker logo de equipo personalizado. Un toque único para cualquier gamer apasionado.",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock":20
+    },
+    {
+        "id": 11,
+        "titulo": "Gorra Esports Premium",
+        "descripcion": "Lleva tu amor por los esports al siguiente nivel con nuestra gorra esports premium. Diseñada para fanáticos y jugadores, esta gorra es el complemento perfecto para tu estilo gamer. Muestra tu apoyo a tu equipo favorito o simplemente agrega un toque esportivo a tu atuendo diario.",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock":22
+    },
+    {
+        "id": 12,
+        "titulo": "Team Valorant",
+        "descripcion": "El Team Valorant es un equipo de alto rendimiento en el mundo de los esports. Compiten en el emocionante juego Valorant, formando un escuadrón de 5 jugadores altamente habilidosos, respaldados por 2 analistas estratégicos y 1 coach de renombre.",
+        "categoria": "equipos",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500000,
+        "stock":5
+    },
+    {
+        "id": 13,
+        "titulo": "Team Rainbow Six",
+        "descripcion": "Rainbow Six es un equipo de esports especializado en el juego Rainbow Six Siege. Este escuadrón táctico está compuesto por 5 jugadores con habilidades excepcionales, respaldados por un equipo de 2 analistas de inteligencia y 1 coach experimentado. ",
+        "categoria": "equipos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500000,
+        "stock":5
+    },
+    {
+        "id": 14,
+        "titulo": "Team Free Fire",
+        "descripcion": "Los Free Fire son un equipo destacado en el juego Battle Royale Free Fire. Este grupo de 5 jugadores extremadamente hábiles cuenta con el apoyo de 2 analistas de estadísticas y 1 coach dedicado.",
+        "categoria": "equipos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 150000,
+        "stock":5
+    },
+    {
+        "id": 15,
+        "titulo": "Team Valorant Queens",
+        "descripcion": "Las Valorant Queens son un equipo femenino de élite que compite en Valorant. Con 5 jugadoras talentosas en su alineación, respaldadas por 2 analistas de estrategia y 1 coach inspirador, este equipo demuestra que las mujeres también tienen un lugar destacado en el mundo de los esports. Su determinación y habilidad las convierten en un equipo imparable.",
+        "categoria": "equipos",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500000,
+        "stock":5
+    },
+    {
+        "id": 16,
+        "titulo": "Team League Legends Legacy",
+        "descripcion": "League Legends Legacy es un equipo icónico en el competitivo juego League of Legends. Con 5 jugadores que encarnan a los campeones en el campo de batalla y un equipo de 3 analistas de estrategia líderes en la industria, junto con un coach visionario, este equipo es conocido por su dominio en el mundo de los esports. ",
+        "categoria": "equipos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock":5
+    }
+]
+    
