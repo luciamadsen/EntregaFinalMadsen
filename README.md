@@ -1,1 +1,1 @@
-🎮 Bayside Esports 🏆 es tu puerta de entrada al emocionante mundo de los deportes electrónicos. Nuestro proyecto está diseñado para brindarte acceso a torneos y competiciones de alto nivel. ¡Únete a nosotros y forma parte del futuro de los deportes electrónicos! 🕹️💥
+
