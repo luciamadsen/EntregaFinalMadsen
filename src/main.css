@@ -4,10 +4,14 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body {
+    background-color: black;
+    color: white;
+}
 
 :root {
-    --clr-main: #c56cee;
-    --clr-main-light: #efdaf9;
+    --clr-main: #145b63;
+    --clr-main-light: #c69116;
 }
 .container {
     max-width: 1140px;
@@ -23,7 +27,7 @@
     justify-content: space-between;
     align-items: center;
     background-color: var(--clr-main);
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid #0f3236;
 }
 .logo {
     text-decoration: none;
@@ -36,9 +40,18 @@
     gap: 1rem;
 }
 .menu-link {
+    color: white;
+    font-size: 1rem; 
+    background-color: #B67A16;
+    border-radius: 5%; 
+    padding: 0.5rem 1rem; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(8, 61, 71, 0.439); 
+    transition: background-color 0.3s ease; 
     text-decoration: none;
-    color: black;
-    font-size: 1.2rem;
 }
 .menu-link:hover {
     text-decoration: underline;
