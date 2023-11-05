@@ -4,7 +4,7 @@
         "titulo": "Remera Oficial",
         "descripcion": "Lleva el espíritu ganador de los esports contigo con nuestra remara negra de campeón. Con un diseño elegante y cómodo, estarás listo para dominar cualquier torneo.",
         "categoria": "indumentaria",
-        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/bayside-team-prueba.appspot.com/o/remera.png?alt=media&token=a5611382-3857-43be-951e-1a801ab13978&_gl=1*k5uin9*_ga*NTU0MDc4NzAuMTY5OTA1NjY1OQ..*_ga_CW55HF8NVT*MTY5OTE1NjExNy43LjEuMTY5OTE1NjI1Ny42MC4wLjA.",
         "precio": 10000,
         "stock":10
     },

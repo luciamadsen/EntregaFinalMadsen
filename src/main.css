@@ -52,13 +52,44 @@ body {
     box-shadow: 0 2px 4px rgba(8, 61, 71, 0.439); 
     transition: background-color 0.3s ease; 
     text-decoration: none;
+    border-radius: 0.5rem;
 }
 .menu-link:hover {
-    text-decoration: underline;
+    text-decoration: none;
     background-color: rgb(79, 119, 134);
     color: rgb(246, 246, 246);
     transform: scale(1);
 }
+
+
+.menu-link {
+    cursor: pointer;
+    color: #000000;
+    font-weight: bold;
+  }
+  
+.MuiPopover-paper {
+    border-radius: 0; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+.submenu-link {
+    color: #555;
+    text-decoration: none;
+    padding: 8px 16px;
+    display: block;
+  }
+  
+.submenu-link:hover {
+    background-color: #f0f0f0;
+    
+  }
+  
+.MuiPopover-paper.MuiPaper-elevation8 {
+    z-index: 1300; 
+}
+
+
 
 .productos {
     display: grid;
